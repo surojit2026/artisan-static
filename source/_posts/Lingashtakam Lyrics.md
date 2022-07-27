@@ -1,5 +1,7 @@
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/3G3e1UCK-5w" width="539" height="303" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>Lingashtakam Lyrics</h2>
+<p>Lingashtakam Lyrics by S.P. Balasubrahmaniam is the latest Hindi song lyrics written by Traditional and the beautiful music has been given by S.P. Balasubrahmaniam.</p>
+
+
+<h2>Lingashtakam Lyrics – S.P. Balasubrahmaniam</h2>
 
 <p>Brahma Muraari Surarchita Lingam<br>
 Nirmala Bhaashita Sobhitha Lingam<br>
